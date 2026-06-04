@@ -2,9 +2,6 @@ name: modern-cpp
 channels:
   - conda-forge
 dependencies:
-  - xeus-cling=0.15.*
-  - cling=0.15.*
+  - xeus-cling
   - jupyterlab
   - xeus-python
-  - ipywidgets
-  - jupyterlab-widgets
