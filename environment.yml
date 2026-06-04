@@ -1,0 +1,6 @@
+name: cpp-jupyter-env
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab
+  - xeus-cpp
